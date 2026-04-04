@@ -1,0 +1,488 @@
+{
+  "business": {
+    "name": "Summit Kitchen Remodel",
+    "phone": "555-kit-r91",
+    "category": "kitchen-remodel",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "design": {
+    "preset": {
+      "id": "kitchen-remodel-mountain-bold",
+      "categoryGroup": "kitchen-remodel",
+      "name": "Mountain Bold",
+      "recipeFile": "kitchen-remodel/mountain-bold.astro",
+      "colors": {
+        "primary": "#4C1D95",
+        "primaryDark": "#351468",
+        "primaryLight": "#d2c7e5",
+        "secondary": "#7C3AED",
+        "accent": "#A78BFA",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#4C1D95",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "kitchen-remodel/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Elevate Your Chicago Kitchen",
+      "heroSubline": "Transform your home with a kitchen that blends timeless design with modern functionality. Serving Naperville, Aurora, and the greater Chicago area with precision craftsmanship.",
+      "aboutTitle": "Crafting Chicago's Finest Kitchens",
+      "aboutText": [
+        "Founded in 2012, Summit Kitchen Remodel began with a simple mission: to bring exceptional craftsmanship and thoughtful design to Chicago-area homes. From historic bungalows to modern condos, we understand the unique character of our region's housing.",
+        "We approach every project as a collaboration, listening closely to your vision while offering expert guidance on materials, layouts, and functionality. Our team believes the kitchen should reflect both your lifestyle and the architectural integrity of your home.",
+        "As a locally owned business, we're proud to support Chicago-area suppliers and tradespeople. From sourcing materials to minimizing waste, we're committed to responsible practices that benefit our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Chicago-Specific Expertise",
+          "description": "We understand how local weather and housing styles impact kitchen design, from bungalow layouts to high-rise condo restrictions."
+        },
+        {
+          "title": "Material Durability",
+          "description": "We select materials that withstand Chicago's freeze-thaw cycles and humidity without sacrificing beauty."
+        },
+        {
+          "title": "Space Optimization",
+          "description": "Our designs maximize every inch, especially valuable in Chicago's historic homes with compact kitchens."
+        },
+        {
+          "title": "Seamless Process",
+          "description": "From permit approval to final inspection, we navigate Chicago's regulations so you don't have to."
+        }
+      ],
+      "ctaHeadline": "Ready to reimagine your kitchen?",
+      "ctaSubline": "Schedule your free design consultation today and discover what's possible in your space."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Handcrafted storage solutions that fit your Chicago home's unique dimensions and style.",
+        "description": "In Chicago's varied housing stock—from vintage bungalows to modern condos—standard cabinets often fall short. Our custom cabinetry is built to precisely fit your space, whether we're working around original 1920s architecture or maximizing every inch in a high-rise kitchen.\n\nWe design with Chicago's climate in mind, using moisture-resistant materials that withstand our humid summers. For historic homes, we can replicate original moldings and proportions, while contemporary spaces benefit from our sleek, space-saving designs. Every cabinet is constructed with solid wood frames and premium hardware that stands up to decades of use.",
+        "process": [
+          "Step 1: Precise measurements accounting for Chicago's often uneven walls and floors",
+          "Step 2: Material selection focused on durability against temperature fluctuations",
+          "Step 3: Design presentation with 3D renderings of your future kitchen",
+          "Step 4: Professional installation with attention to historic home preservation when needed"
+        ],
+        "benefits": [
+          "Perfect fit for Chicago's irregular room dimensions",
+          "Premium materials that resist warping in humidity",
+          "Style continuity with your home's architecture",
+          "Maximized storage in compact city kitchens"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle cabinet installation in historic Chicago homes?",
+            "answer": "We specialize in non-invasive techniques that preserve original features while modernizing functionality. For landmark districts, we ensure all designs meet local preservation guidelines."
+          },
+          {
+            "question": "What cabinet materials work best for Chicago's climate?",
+            "answer": "We recommend plywood boxes with solid wood fronts—this combination resists seasonal expansion better than particleboard. For painted finishes, we use moisture-resistant primers."
+          }
+        ]
+      },
+      {
+        "slug": "luxury-countertops",
+        "name": "Luxury Countertops",
+        "shortDescription": "Premium surfaces selected for both beauty and resilience against Chicago's climate extremes.",
+        "description": "Chicago homeowners deserve countertops that can handle everything from holiday baking marathons to summer humidity without losing their luster. We source quartz, granite, and porcelain surfaces that offer both timeless appeal and practical durability.\n\nFor historic homes, we might suggest a honed finish that complements original features, while contemporary spaces shine with waterfall edges and integrated sinks. Our installers are experts at working with Chicago's older homes, ensuring proper support structures for heavy stone surfaces. We also offer sustainable options like recycled glass countertops for eco-conscious homeowners.",
+        "process": [
+          "Step 1: Consultation about your cooking habits and design preferences",
+          "Step 2: Material selection focusing on Chicago-appropriate durability",
+          "Step 3: Precise template creation accounting for older homes' irregularities",
+          "Step 4: Seamless installation with minimal disruption to your household"
+        ],
+        "benefits": [
+          "Stain-resistant surfaces perfect for Chicago's entertaining culture",
+          "Materials that won't etch from acidic foods common in urban diets",
+          "Edge profiles that complement your home's architectural style",
+          "Thermal shock resistance for homes with extreme temperature shifts"
+        ],
+        "faq": [
+          {
+            "question": "Which countertop material is most durable for a busy Chicago kitchen?",
+            "answer": "Quartz offers the best combination of scratch resistance and low maintenance, standing up well to Chicago's active households. Porcelain is gaining popularity for its stain-proof qualities."
+          },
+          {
+            "question": "How do you protect my floors during countertop installation?",
+            "answer": "We use heavy-duty ram board and temporary floor protection, especially crucial in Chicago's vintage homes with original hardwood floors."
+          }
+        ]
+      },
+      {
+        "slug": "smart-kitchen-upgrades",
+        "name": "Smart Kitchen Upgrades",
+        "shortDescription": "Modern conveniences thoughtfully integrated into Chicago's classic home layouts.",
+        "description": "Blending contemporary technology with Chicago's traditional architecture requires careful planning. Our smart kitchen upgrades bring convenience without compromising your home's character.\n\nWe install discreet charging stations in drawers, under-cabinet lighting that highlights original architectural details, and ventilation systems powerful enough for Chicago-style cooking but quiet enough for open-concept homes. For Chicago's harsh winters, we recommend warming drawers for keeping meals hot and smart faucets with freeze protection. Every upgrade is chosen for its ability to enhance daily life in our climate.",
+        "process": [
+          "Step 1: Assessment of your home's electrical capacity and layout",
+          "Step 2: Selection of smart features that align with your cooking habits",
+          "Step 3: Integration planning that respects your home's structure",
+          "Step 4: Professional installation with thorough homeowner training"
+        ],
+        "benefits": [
+          "Energy-efficient appliances that reduce Chicago utility bills",
+          "Voice-controlled lighting perfect for hands-free meal prep",
+          "Leak detection systems that protect against Chicago's hard water",
+          "Discreet tech that maintains your kitchen's aesthetic"
+        ],
+        "faq": [
+          {
+            "question": "Can you add smart features to my vintage Chicago kitchen?",
+            "answer": "Absolutely. We specialize in discreet installations—like hidden outlets inside cabinets or under-counter lighting—that modernize function while preserving historic charm."
+          },
+          {
+            "question": "What smart upgrades are most popular with Chicago homeowners?",
+            "answer": "Touchless faucets are in high demand for their hygiene benefits, while smart thermostats for range hoods help manage cooking odors in Chicago's often compact kitchens."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-layout-design",
+        "name": "Kitchen Layout Design",
+        "shortDescription": "Optimized floor plans that transform challenging Chicago kitchen spaces.",
+        "description": "Chicago's diverse housing presents unique layout challenges—from galley kitchens in bungalows to awkward corners in high-rises. Our design expertise transforms these limitations into functional, beautiful spaces.\n\nWe start by analyzing how you actually use your kitchen. For young families in Naperville, that might mean creating a snack station away from the main cooking zone. For empty nesters in Evanston, we might design for easier access and entertaining flow. Our solutions respect structural limitations while introducing smart storage, proper work triangles, and lighting that compensates for Chicago's long winters.",
+        "process": [
+          "Step 1: In-depth interview about your cooking and gathering routines",
+          "Step 2: Evaluation of your existing space's potential and limitations",
+          "Step 3: Multiple layout options presented with 3D walkthroughs",
+          "Step 4: Refinement based on your feedback and structural realities"
+        ],
+        "benefits": [
+          "Solutions for Chicago's common kitchen pain points",
+          "Improved workflow that makes cooking more enjoyable",
+          "Clever storage that maximizes every inch",
+          "Designs that accommodate multi-generational living"
+        ],
+        "faq": [
+          {
+            "question": "How can you improve storage in my small Chicago kitchen?",
+            "answer": "We employ vertical storage solutions, appliance garages, and custom pull-outs that triple usable space without expanding your footprint—crucial for Chicago's compact homes."
+          },
+          {
+            "question": "What layout works best for Chicago's older homes?",
+            "answer": "For bungalows, we often recommend a modified galley with a peninsula. This maintains traffic flow while adding seating—ideal for Chicago's social cooking culture."
+          }
+        ]
+      },
+      {
+        "slug": "premium-tile-work",
+        "name": "Premium Tile Work",
+        "shortDescription": "Artisanal tile installations that withstand Chicago's climate while elevating your space.",
+        "description": "From classic subway tiles in Lincoln Park brownstones to bold geometric patterns in Wicker Park lofts, our tile work combines artistry with Chicago-proof durability.\n\nWe select materials specifically for their ability to handle temperature swings—porcelain for its low absorption rate, ceramic with proper sealing for humidity resistance. Our installers are experts at working with Chicago's often uneven walls, creating flawless surfaces that last. For backsplashes, we might suggest darker grout that hides stains from Chicago's hearty cooking, or intricate mosaics that become a focal point in open-concept spaces.",
+        "process": [
+          "Step 1: Consultation about your design vision and maintenance preferences",
+          "Step 2: Selection of tiles rated for freeze-thaw cycles",
+          "Step 3: Careful surface preparation to prevent future cracking",
+          "Step 4: Meticulous installation with industry-leading waterproofing"
+        ],
+        "benefits": [
+          "Materials selected for Chicago's harsh winters",
+          "Expert installation on uneven historic walls",
+          "Designs that complement your home's era",
+          "Easy-to-clean surfaces for busy households"
+        ],
+        "faq": [
+          {
+            "question": "What tile is best for Chicago kitchen floors?",
+            "answer": "Porcelain tile with a textured finish provides the best slip resistance during snowy months while being easy to clean. We avoid natural stone in high-traffic areas due to staining risks."
+          },
+          {
+            "question": "How do you prevent tiles from cracking in Chicago winters?",
+            "answer": "We use premium thinset mortars with polymer additives for flexibility, and always include expansion joints—especially important in rooms with temperature fluctuations."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Marta K.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Summit transformed our 1920s bungalow kitchen with cabinets that look original but function like new. They matched the existing trim perfectly and even incorporated vintage-style hardware. A year later, the drawers still glide smoothly despite Chicago's humidity changes.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "James T.",
+        "rating": 5,
+        "service": "Smart Kitchen Upgrades",
+        "text": "Living in a high-rise, I wanted tech without a sterile look. Summit installed hidden charging drawers, under-cabinet lighting that automatically adjusts for natural light, and a faucet that remembers my preferred water temperature—all while maintaining our kitchen's elegant aesthetic.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Anika P.",
+        "rating": 5,
+        "service": "Luxury Countertops",
+        "text": "Our quartz counters have survived two Chicago winters and endless meal prep without a single stain. The team did an incredible job installing around our uneven walls—you'd never know our building is over 100 years old. The integrated sink is a game-changer for cleanup.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Derek L.",
+        "rating": 5,
+        "service": "Kitchen Layout Design",
+        "text": "Our Evanston kitchen went from cramped to functional without expanding the footprint. Summit designed a clever work triangle that accommodates multiple cooks (common in our house) and added storage solutions I wouldn't have imagined. The peninsula gives us much-needed seating too.",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Sophia R.",
+        "rating": 5,
+        "service": "Premium Tile Work",
+        "text": "The herringbone backsplash Summit installed is stunning and practical—the dark grout hides splatters from our frequent cooking. They took extra care to level the wall first, resulting in a flawless surface. A year later, not a single tile has loosened despite temperature swings.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "service": "Complete Kitchen Remodel",
+        "text": "From demo to final touches, Summit handled our Naperville kitchen remodel with professionalism. They coordinated all the subs, kept the project on schedule despite supply delays, and protected our hardwood floors throughout. The attention to detail—like aligning the countertop grain with the backsplash—shows their craftsmanship.",
+        "date": "2024-09-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Chicago Kitchen Remodeling Experts | Summit Kitchen Remodel",
+        "description": "Chicago's trusted kitchen remodeling contractor specializing in custom designs for historic homes and modern spaces. Serving Naperville, Evanston, and surrounding areas."
+      },
+      "about": {
+        "title": "About Our Chicago Kitchen Remodeling Company",
+        "description": "Learn how Summit Kitchen Remodel brings 12+ years of local expertise to transforming Chicago-area kitchens with precision craftsmanship."
+      },
+      "services": {
+        "title": "Chicago Kitchen Remodeling Services | Custom Solutions",
+        "description": "From cabinetry to smart upgrades, discover our Chicago-focused kitchen remodeling services designed for local homes and lifestyles."
+      },
+      "contact": {
+        "title": "Contact Chicago's Kitchen Remodeling Specialists",
+        "description": "Ready to transform your Chicago kitchen? Contact Summit Kitchen Remodel for a free consultation in Naperville, Evanston, and surrounding areas."
+      },
+      "reviews": {
+        "title": "Chicago Kitchen Remodel Reviews | Summit Kitchen Remodel",
+        "description": "See what Chicago homeowners say about their kitchen remodeling experiences with Summit's design expertise and craftsmanship."
+      },
+      "service-areas": {
+        "title": "Chicago Kitchen Remodeling Service Areas | Summit",
+        "description": "Serving Naperville, Evanston, Arlington Heights and Chicago's suburbs with custom kitchen remodels tailored to each community's homes."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Naperville",
+        "slug": "naperville-il",
+        "state": "IL",
+        "content": "Summit Kitchen Remodel specializes in transforming kitchens in Naperville’s upscale family homes, many built between the 1970s and 2000s. Our expertise in modernizing these spaces ensures they meet the demands of today’s lifestyles while preserving their timeless appeal. Given Naperville’s harsh winters with heavy snow and ice, we prioritize durable, high-quality materials that withstand extreme weather and seasonal wear.",
+        "localContext": "Naperville is known for its upscale family homes, excellent schools, and vibrant downtown.",
+        "nearbyAreas": [
+          "Aurora",
+          "Lisle",
+          "Bolingbrook"
+        ]
+      },
+      {
+        "city": "Aurora",
+        "slug": "aurora-il",
+        "state": "IL",
+        "content": "Aurora’s diverse housing stock, ranging from 1960s to 2000s builds, offers unique opportunities for kitchen remodels. At Summit Kitchen Remodel, we tailor designs to fit the varied architectural styles found here, from mid-century modern to contemporary. Aurora’s harsh winters with heavy snow and ice require kitchens built to last, and we use weather-resistant materials to ensure longevity and functionality.",
+        "localContext": "Aurora is a culturally diverse city with a mix of historic and modern homes.",
+        "nearbyAreas": [
+          "Naperville",
+          "Montgomery",
+          "Batavia"
+        ]
+      },
+      {
+        "city": "Schaumburg",
+        "slug": "schaumburg-il",
+        "state": "IL",
+        "content": "Schaumburg’s suburban developments from the 1970s and 80s often feature outdated kitchens that need modern upgrades. Summit Kitchen Remodel excels at revitalizing these spaces with sleek, functional designs that align with today’s trends. Given Schaumburg’s cold winters with heavy snow and ice, we recommend materials that resist moisture and temperature fluctuations for lasting beauty and performance.",
+        "localContext": "Schaumburg is a bustling suburb with a strong commercial presence and family-friendly neighborhoods.",
+        "nearbyAreas": [
+          "Arlington Heights",
+          "Hoffman Estates",
+          "Elk Grove Village"
+        ]
+      },
+      {
+        "city": "Evanston",
+        "slug": "evanston-il",
+        "state": "IL",
+        "content": "Evanston’s historic homes, dating from the 1890s to the 1930s, require kitchen remodels that balance modern functionality with classic charm. Summit Kitchen Remodel specializes in preserving the architectural integrity of these homes while introducing contemporary amenities. Evanston’s harsh winters demand durable materials, and we ensure your kitchen can withstand the heavy snow and ice common in the area.",
+        "localContext": "Evanston is home to Northwestern University and boasts a rich history with beautiful historic properties.",
+        "nearbyAreas": [
+          "Skokie",
+          "Wilmette",
+          "Chicago"
+        ]
+      },
+      {
+        "city": "Arlington Heights",
+        "slug": "arlington-heights-il",
+        "state": "IL",
+        "content": "Arlington Heights’ established ranch homes from the 1950s to 70s often feature kitchens in need of modernization. Summit Kitchen Remodel creates functional, stylish spaces that enhance these homes’ mid-century appeal. With Arlington Heights experiencing harsh winters and heavy snowfall, we use materials that resist wear from cold and moisture, ensuring your kitchen remains beautiful and practical year-round.",
+        "localContext": "Arlington Heights is a well-established suburb with a strong sense of community and excellent schools.",
+        "nearbyAreas": [
+          "Schaumburg",
+          "Palatine",
+          "Mount Prospect"
+        ]
+      },
+      {
+        "city": "Oak Park",
+        "slug": "oak-park-il",
+        "state": "IL",
+        "content": "Oak Park’s historic homes, many designed by Frank Lloyd Wright, require kitchen remodels that honor their architectural significance. Summit Kitchen Remodel specializes in blending modern functionality with the unique character of these properties. Given Oak Park’s cold winters with heavy snow and ice, we prioritize durable materials that maintain their integrity in extreme weather.",
+        "localContext": "Oak Park is renowned for its historic architecture and vibrant arts scene.",
+        "nearbyAreas": [
+          "River Forest",
+          "Forest Park",
+          "Chicago"
+        ]
+      },
+      {
+        "city": "Glenview",
+        "slug": "glenview-il",
+        "state": "IL",
+        "content": "Glenview’s mix of mid-century and newer homes presents diverse opportunities for kitchen remodels. Summit Kitchen Remodel crafts custom designs that enhance the functionality and aesthetics of these spaces. With Glenview’s harsh winters featuring heavy snow and ice, we focus on materials that withstand the elements while delivering timeless style.",
+        "localContext": "Glenview is an affluent suburb with top-rated schools and a strong community feel.",
+        "nearbyAreas": [
+          "Northbrook",
+          "Skokie",
+          "Wilmette"
+        ]
+      },
+      {
+        "city": "Wheaton",
+        "slug": "wheaton-il",
+        "state": "IL",
+        "content": "Wheaton’s charming homes, ranging from historic to modern, often need kitchen updates to meet contemporary needs. Summit Kitchen Remodel excels at creating spaces that blend tradition with innovation. Wheaton’s freezing winters with heavy snowfall require resilient materials, and we ensure your kitchen is built to last through the toughest weather conditions.",
+        "localContext": "Wheaton is known for its small-town charm, excellent schools, and strong faith-based community.",
+        "nearbyAreas": [
+          "Naperville",
+          "Carol Stream",
+          "Glen Ellyn"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "luxury-countertops": "/images/service-luxury-countertops.webp",
+      "smart-kitchen-upgrades": "/images/service-smart-kitchen-upgrades.webp",
+      "kitchen-layout-design": "/images/service-kitchen-layout-design.webp",
+      "premium-tile-work": "/images/service-premium-tile-work.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "luxury-countertops": {
+        "src": "/images/service-luxury-countertops.webp",
+        "srcset": "/images/service-luxury-countertops-400w.webp 400w, /images/service-luxury-countertops-800w.webp 800w, /images/service-luxury-countertops-1200w.webp 1200w, /images/service-luxury-countertops.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "smart-kitchen-upgrades": {
+        "src": "/images/service-smart-kitchen-upgrades.webp",
+        "srcset": "/images/service-smart-kitchen-upgrades-400w.webp 400w, /images/service-smart-kitchen-upgrades-800w.webp 800w, /images/service-smart-kitchen-upgrades-1200w.webp 1200w, /images/service-smart-kitchen-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-layout-design": {
+        "src": "/images/service-kitchen-layout-design.webp",
+        "srcset": "/images/service-kitchen-layout-design-400w.webp 400w, /images/service-kitchen-layout-design-800w.webp 800w, /images/service-kitchen-layout-design-1200w.webp 1200w, /images/service-kitchen-layout-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "premium-tile-work": {
+        "src": "/images/service-premium-tile-work.webp",
+        "srcset": "/images/service-premium-tile-work-400w.webp 400w, /images/service-premium-tile-work-800w.webp 800w, /images/service-premium-tile-work-1200w.webp 1200w, /images/service-premium-tile-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
